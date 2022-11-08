@@ -1,0 +1,16 @@
+if (Race > 2.5) and (Zip Code - 3 digits > 15.5) and (Facility Name > 32.5) then class: Not Span/Hispanic (proba: 96.97%) | based on 4,020 samples
+
+if (Race <= 2.5) and (Race > 1.5) and (Operating Certificate Number <= 7002001.5) then class: Not Span/Hispanic (proba: 46.39%) | based on 1,912 samples
+
+if (Race <= 2.5) and (Race <= 1.5) and (Operating Certificate Number <= 7002001.5) then class: Not Span/Hispanic (proba: 91.22%) | based on 1,868 samples
+
+if (Race > 2.5) and (Zip Code - 3 digits <= 15.5) and (Payment Typology 1 > 4.5) then class: Not Span/Hispanic (proba: 92.18%) | based on 1,777 samples
+
+if (Race <= 2.5) and (Race > 1.5) and (Operating Certificate Number > 7002001.5) then class: Not Span/Hispanic (proba: 71.62%) | based on 1,191 samples
+
+if (Race > 2.5) and (Zip Code - 3 digits <= 15.5) and (Payment Typology 1 <= 4.5) then class: Not Span/Hispanic (proba: 78.07%) | based on 1,099 samples
+
+if (Race <= 2.5) and (Race <= 1.5) and (Operating Certificate Number > 7002001.5) then class: Not Span/Hispanic (proba: 83.4%) | based on 741 samples
+
+if (Race > 2.5) and (Zip Code - 3 digits > 15.5) and (Facility Name <= 32.5) then class: Not Span/Hispanic (proba: 90.11%) | based on 657 samples
+
